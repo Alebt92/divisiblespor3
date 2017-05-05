@@ -33,6 +33,8 @@ public class Divisiblespor3 {
         System.out.println("Numeros divisibles por 3 comprendidos entre " + n1 + " Y " + n2);
         if(n1 > n2){
             au = n2;
+            
+     
             n2=n1;
             n1=au;
         }
