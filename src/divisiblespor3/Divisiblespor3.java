@@ -41,7 +41,6 @@ public class Divisiblespor3 {
             if(i%3 == 0){
                 System.out.println(i);
             }
-            
         }
     }
 }
