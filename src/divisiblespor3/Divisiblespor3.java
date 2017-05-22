@@ -31,10 +31,9 @@ public class Divisiblespor3 {
         cadena=teclado.readLine();
         n2 = Integer.parseInt(cadena);
         System.out.println("Numeros divisibles por 3 comprendidos entre " + n1 + " Y " + n2);
+        System.out.println("Prueba");
         if(n1 > n2){
             au = n2;
-            
-     
             n2=n1;
             n1=au;
         }
