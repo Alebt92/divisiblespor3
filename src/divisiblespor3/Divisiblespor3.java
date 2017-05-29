@@ -32,6 +32,7 @@ public class Divisiblespor3 {
         n2 = Integer.parseInt(cadena);
         System.out.println("Numeros divisibles por 3 comprendidos entre " + n1 + " Y " + n2);
         System.out.println("Prueba");
+        System.out.println("Hola, soy un colaborador");
         if(n1 > n2){
             au = n2;
             n2=n1;
